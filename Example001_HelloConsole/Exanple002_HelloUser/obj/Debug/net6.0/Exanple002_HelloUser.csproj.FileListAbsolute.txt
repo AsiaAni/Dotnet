@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/bin/Debug/net6.0/Exanple002_HelloUser
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/bin/Debug/net6.0/Exanple002_HelloUser.deps.json
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/bin/Debug/net6.0/Exanple002_HelloUser.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/bin/Debug/net6.0/Exanple002_HelloUser.dll
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/bin/Debug/net6.0/Exanple002_HelloUser.pdb
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.dll
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/refint/Exanple002_HelloUser.dll
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.pdb
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/Exanple002_HelloUser.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/Example001_HelloConsole/Exanple002_HelloUser/obj/Debug/net6.0/ref/Exanple002_HelloUser.dll
