@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/bin/Debug/net6.0/Lesson2sem
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/bin/Debug/net6.0/Lesson2sem.deps.json
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/bin/Debug/net6.0/Lesson2sem.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/bin/Debug/net6.0/Lesson2sem.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/bin/Debug/net6.0/Lesson2sem.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/refint/Lesson2sem.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/Lesson2sem.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson2sem/obj/Debug/net6.0/ref/Lesson2sem.dll

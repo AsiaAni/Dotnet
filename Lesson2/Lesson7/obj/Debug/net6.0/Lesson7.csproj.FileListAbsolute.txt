@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/bin/Debug/net6.0/Lesson7
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/bin/Debug/net6.0/Lesson7.deps.json
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/bin/Debug/net6.0/Lesson7.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/bin/Debug/net6.0/Lesson7.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/bin/Debug/net6.0/Lesson7.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/refint/Lesson7.dll
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/Lesson7.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/Lesson2/Lesson7/obj/Debug/net6.0/ref/Lesson7.dll
