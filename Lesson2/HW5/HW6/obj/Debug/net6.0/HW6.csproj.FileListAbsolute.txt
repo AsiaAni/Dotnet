@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/bin/Debug/net6.0/HW6
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/bin/Debug/net6.0/HW6.deps.json
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/bin/Debug/net6.0/HW6.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/bin/Debug/net6.0/HW6.dll
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/bin/Debug/net6.0/HW6.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.dll
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/refint/HW6.dll
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.pdb
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/HW6.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/Lesson2/HW5/HW6/obj/Debug/net6.0/ref/HW6.dll
