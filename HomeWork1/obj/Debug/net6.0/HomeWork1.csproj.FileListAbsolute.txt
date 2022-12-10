@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/HomeWork1/bin/Debug/net6.0/HomeWork1
+/Users/anastasia/Desktop/Examples/HomeWork1/bin/Debug/net6.0/HomeWork1.deps.json
+/Users/anastasia/Desktop/Examples/HomeWork1/bin/Debug/net6.0/HomeWork1.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/HomeWork1/bin/Debug/net6.0/HomeWork1.dll
+/Users/anastasia/Desktop/Examples/HomeWork1/bin/Debug/net6.0/HomeWork1.pdb
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.dll
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/refint/HomeWork1.dll
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.pdb
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/HomeWork1.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/HomeWork1/obj/Debug/net6.0/ref/HomeWork1.dll

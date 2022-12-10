@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Examples/csharp/bin/Debug/net6.0/csharp
+/Users/anastasia/Desktop/Examples/csharp/bin/Debug/net6.0/csharp.deps.json
+/Users/anastasia/Desktop/Examples/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/anastasia/Desktop/Examples/csharp/bin/Debug/net6.0/csharp.dll
+/Users/anastasia/Desktop/Examples/csharp/bin/Debug/net6.0/csharp.pdb
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.dll
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/refint/csharp.dll
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.pdb
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/Users/anastasia/Desktop/Examples/csharp/obj/Debug/net6.0/ref/csharp.dll
